@@ -1,3 +1,4 @@
+VI operation guid
 1. vi readme.txt
 2. press a,i,o to enter insert mode
 3. type your content
