@@ -5,4 +5,3 @@ VI operation guid
 4. if type end, press ESC
 5. if conten is ===> :wq
    else ===> :q!
-6. nothing
